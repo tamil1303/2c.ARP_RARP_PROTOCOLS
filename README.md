@@ -20,7 +20,8 @@ P
 ## PROGRAM
 
 ``` 
-client: 
+client:
+```
  
 import socket                                                              
 s=socket.socket() 
