@@ -19,10 +19,10 @@ P
 
 ## PROGRAM
 
-``` 
+
 client:
-```
- 
+
+``` 
 import socket                                                              
 s=socket.socket() 
 s.bind(('localhost',8000)) 
